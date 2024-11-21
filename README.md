@@ -1,7 +1,3 @@
-# Hello, I'm Raiko Dimitrov 👋
-
-Welcome to my GitHub profile! I'm a passionate **Backend Developer** from Bulgaria. I enjoy working on a variety of projects and learning new technologies!
-
 ## 🚀 About Me
 
 - 🌱 I’m learning **in-depth Java, Spring, SQL**.
@@ -53,12 +49,6 @@ Here’s a quick look at my GitHub contributions:
 ## 🎯 My Goals
 
 - Learn **Spring Boot** and build scalable applications.
-
----
-
-## 💬 Let's Chat
-
-Feel free to reach out to me if you’d like to collaborate, share ideas, or discuss exciting projects! 🚀
 
 ---
 
