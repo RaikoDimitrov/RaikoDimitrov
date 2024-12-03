@@ -1,8 +1,7 @@
 ## 🚀 About Me
 
-- 🌱 I’m learning **in-depth Java, Spring, SQL**.
-- 🤔 I’m currently focusing on **Java & Spring core features**.
-- 📫 How to reach me: **98freddy98@gmail.com**.
+- 🌱 I’m learning **in-depth Java, Spring Boot, SQL**.
+- 📫 How to reach me: **raikodimitrov13@gmail.com**
 
 ---
 
@@ -28,27 +27,8 @@ Here’s a quick look at my GitHub contributions:
 
 ---
 
-## 🌱 What I'm Currently Learning
-
-- **Java**
-- **Spring**
-- **SQL**
-
----
-
-## 🔗 Connect with Me
-
-- [Email](mailto:98freddy98@gmail.com)
-
----
-
 ## 🚀 Projects
 
 ---
 
-## 🎯 My Goals
-
-- Learn **Spring Boot** and build scalable applications.
-
----
 
