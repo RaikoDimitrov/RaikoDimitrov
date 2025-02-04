@@ -3,7 +3,7 @@
 ### Backend
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 - ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1).
+- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Tools & Platforms
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
