@@ -8,9 +8,10 @@
 ### Tools & Platforms
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=181717)
-- ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue).
+- ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 - ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=0078D4)
 - ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   
 ---
 
